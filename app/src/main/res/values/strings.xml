@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyCart</string>
+    <string name="you_have_no_items_in_the_cart">You have no items in the cart!!</string>
+    <string name="cart">Cart</string>
+    <string name="home">Home</string>
+    <string name="carticon">cartIcon</string>
+    <string name="unable_to_load_please_try_again">Unable to load, please check your network and try again !!</string>
+    <string name="go_to_cart">Go To Cart</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="backicon">BackIcon</string>
+    <string name="rating">Rating %1$s</string>
+    <string name="item_added_to_cart">Item added to Cart</string>
+    <string name="item_removed_from_cart">Item removed from Cart</string>
+</resources>
